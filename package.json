@@ -1,0 +1,15 @@
+{
+  "name": "karmaRequireTest",
+  "version": "0.0.1",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.4",
+    "grunt-bowercopy": "^1.0.0"
+  }
+}

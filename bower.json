@@ -1,0 +1,22 @@
+{
+  "name": "karmaRequireTest",
+  "version": "0.0.1",
+  "authors": [
+    "Rafael Kato <rafael.assis@minhavida.com.br>"
+  ],
+  "description": "test",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "~1.2.16",
+    "angular-mocks": "~1.2.16",
+    "angular-route": "~1.2.16"
+  }
+}
